@@ -1,9 +1,12 @@
 # Excel_Dashboard
 "Interactive Excel Dashboard for Data Analysis. Visualizes revenue, profit, expenses, and transaction data across various dimensions such as payment methods, product lines, regions, and categories."
+#
 📊 Excel Dashboard for Data Analysis
+#
 🌟 Project Overview
+#
 This project is an Excel-based interactive dashboard that provides a comprehensive analysis of revenue, profit, and expenses across multiple dimensions. The dashboard includes various charts and graphs for better data-driven decision-making.
-
+#
 📂 Files and Structure
 Excel_Dashboard.xlsx: Main Excel file with the dashboard.
 Raw_Data.csv: Original dataset (if applicable).
